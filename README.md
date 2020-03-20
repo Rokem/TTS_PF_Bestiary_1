@@ -11,7 +11,7 @@ If you happen to own these pawns IRL and would like to contribute a high-res ima
 I hope you enjoy these pawns in your next RPG session and don't forget to give a thumbs up and drop a comment below with your thoughts! Enjoy! :D
 
 
-### Future Plans
+## Future Plans
 It took a very long time to compile all the images, generate the transparencies, create the templates, then finally import and size everything properly in Tabletop Simulator. I am planning on releasing more pawn packs, however please understand it will be some time before the next one is ready.
 
 The next planned pack will be an NPC pawn pack to help populate your towns and villages. Stay tuned!
